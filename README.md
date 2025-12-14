@@ -1,0 +1,1 @@
+I completed building this task in 3 hours I took the help of AI (chatgpt) along with some insights from my senior. It took me a lot of time in understanding the working of GIT as I am  new to this.This is a basic html page using bootstrap UI.
